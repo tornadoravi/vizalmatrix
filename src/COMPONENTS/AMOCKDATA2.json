@@ -1,0 +1,90 @@
+[{"Product": "all cycle stand",
+"Reseller": "[passed]",
+"Year": 2019,
+"Quarter": "Qtr 2",
+"Month": "May",
+"Sum of Order Quantity": 1,
+"Sum of Product Standard Cost": 59.466,
+"Sum of Sales Amount": 1159
+},
+{
+"Product": "all cycle stand",
+"Reseller": "[passed]",
+"Year": 2019,
+"Quarter": "Qtr 2",
+"Month": "June",
+"Sum of Order Quantity": 3,
+"Sum of Product Standard Cost": 178.398,
+"Sum of Sales Amount": 1477
+},
+{
+"Product": "all cycle stand",
+"Reseller": "[passed]",
+"Year": 2019,
+"Quarter": "Qtr 3",
+"Month": "July",
+"Sum of Order Quantity": 21,
+"Sum of Product Standard Cost": 1248.7859999999996,
+"Sum of Sales Amount": 13339
+},
+{
+"Product": "all cycle stand",
+"Reseller": "[passed]",
+"Year": 2019,
+"Quarter": "Qtr 3",
+"Month": "August",
+"Sum of Order Quantity": 19,
+"Sum of Product Standard Cost": 1129.8539999999998,
+"Sum of Sales Amount": 13021
+},
+{
+"Product": "all cycle stand",
+"Reseller": "[passed]",
+"Year": 2019,
+"Quarter": "Qtr 3",
+"Month": "September",
+"Sum of Order Quantity": 27,
+"Sum of Product Standard Cost": 1605.581999999999,
+"Sum of Sales Amount": 14293
+},
+{
+"Product": "all cycle stand",
+"Reseller": "[passed]",
+"Year": 2019,
+"Quarter": "Qtr 4",
+"Month": "October",
+"Sum of Order Quantity": 23,
+"Sum of Product Standard Cost": 1367.7179999999994,
+"Sum of Sales Amount": 13657
+},
+{
+"Product": "all cycle stand",
+"Reseller": "[passed]",
+"Year": 2019,
+"Quarter": "Qtr 4",
+"Month": "November",
+"Sum of Order Quantity": 25,
+"Sum of Product Standard Cost": 1486.6499999999992,
+"Sum of Sales Amount": 13975
+},
+{
+"Product": "all cycle stand",
+"Reseller": "[passed]",
+"Year": 2019,
+"Quarter": "Qtr 4",
+"Month": "December",
+"Sum of Order Quantity": 16,
+"Sum of Product Standard Cost": 951.456,
+"Sum of Sales Amount": 12544
+},
+{
+"Product": "all cycle stand",
+"Reseller": "[passed]",
+"Year": 2020,
+"Quarter": "Qtr 1",
+"Month": "January",
+"Sum of Order Quantity": 19,
+"Sum of Product Standard Cost": 1129.8539999999998,
+"Sum of Sales Amount": 13021
+}
+]

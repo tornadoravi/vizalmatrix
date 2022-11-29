@@ -1,0 +1,80 @@
+[{"Product": "All-Purpose Bike Stand",
+"Reseller": "[Not Applicable]",
+"Year": 2019,
+"Quarter": "Qtr 2",
+"Month": "May",
+"Sum of Order Quantity": 1,
+"Sum of Product Standard Cost": 59.466,
+"Sum of Sales Amount": 159
+},
+{
+"Product": "All-Purpose Bike Stand",
+"Reseller": "[Not Applicable]",
+"Year": 2019,
+"Quarter": "Qtr 2",
+"Month": "June",
+"Sum of Order Quantity": 3,
+"Sum of Product Standard Cost": 178.398,
+"Sum of Sales Amount": 477
+},
+{
+"Product": "All-Purpose Bike Stand",
+"Reseller": "[Not Applicable]",
+"Year": 2019,
+"Quarter": "Qtr 3",
+"Month": "July",
+"Sum of Order Quantity": 21,
+"Sum of Product Standard Cost": 1248.7859999999996,
+"Sum of Sales Amount": 3339
+},
+{
+"Product": "All-Purpose Bike Stand",
+"Reseller": "[Not Applicable]",
+"Year": 2019,
+"Quarter": "Qtr 3",
+"Month": "August",
+"Sum of Order Quantity": 19,
+"Sum of Product Standard Cost": 1129.8539999999998,
+"Sum of Sales Amount": 3021
+},
+{
+"Product": "All-Purpose Bike Stand",
+"Reseller": "[Not Applicable]",
+"Year": 2019,
+"Quarter": "Qtr 3",
+"Month": "September",
+"Sum of Order Quantity": 27,
+"Sum of Product Standard Cost": 1605.581999999999,
+"Sum of Sales Amount": 4293
+},
+{
+"Product": "All-Purpose Bike Stand",
+"Reseller": "[Not Applicable]",
+"Year": 2019,
+"Quarter": "Qtr 4",
+"Month": "October",
+"Sum of Order Quantity": 23,
+"Sum of Product Standard Cost": 1367.7179999999994,
+"Sum of Sales Amount": 3657
+},
+{
+"Product": "All-Purpose Bike Stand",
+"Reseller": "[Not Applicable]",
+"Year": 2019,
+"Quarter": "Qtr 4",
+"Month": "November",
+"Sum of Order Quantity": 25,
+"Sum of Product Standard Cost": 1486.6499999999992,
+"Sum of Sales Amount": 3975
+},
+
+{
+"Product": "HL Road Frame - Black, 44",
+"Reseller": "Retread Tire Company",
+"Year": 2018,
+"Quarter": "Qtr 3",
+"Month": "September",
+"Sum of Order Quantity": 2,
+"Sum of Product Standard Cost": 722.2568,
+"Sum of Sales Amount": 1561.6364
+}]
